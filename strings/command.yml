@@ -15,7 +15,7 @@ PING_COMMAND : ["mping"]
 START_COMMAND : ["mstart"]
 HELP_COMMAND : ["mhelp"]
 SETTINGS_COMMAND : ["msettings", "setting"]
-RELOAD_COMMAND : ["admincache", "reload"]
+RELOAD_COMMAND : ["admincache", "mreload"]
 GSTATS_COMMAND : ["gstats"]
 STATS_COMMAND : ["mstats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
@@ -103,10 +103,10 @@ BLOCKED_COMMAND : ["blockedusers"]
 SPEEDTEST_COMMAND : ["speedtest"]
 
 #Voice chat commands
-ACTIVEVC_COMMAND : ["activevcs"]
-ACTIVEVIDEO_COMMAND : ["activebokep"]
+ACTIVEVC_COMMAND : ["activevoice"]
+ACTIVEVIDEO_COMMAND : ["activevideo"]
 
 #Gban Commands
-GBAN_COMMAND : ["mgban"]
+GBAN_COMMAND : ["gban"]
 UNGBAN_COMMAND : ["mungban"]
 GBANNED_COMMAND : ["gbannedusers"]
