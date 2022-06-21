@@ -58,7 +58,7 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/ybgskr12/hayolo",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "dappa")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "hayolo")
 
 # GIT TOKEN ( if your edited repo is private)
 GIT_TOKEN = getenv("GIT_TOKEN", None)
