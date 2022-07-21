@@ -11,11 +11,11 @@
 # Commands in Every Language
 
 # Bot Commands
-PING_COMMAND : ["mping"]
+PING_COMMAND : ["sempak"]
 START_COMMAND : ["mstart"]
 HELP_COMMAND : ["mhelp"]
-SETTINGS_COMMAND : ["msettings", "msetting"]
-RELOAD_COMMAND : ["admincache", "mreload"]
+SETTINGS_COMMAND : ["settings", "setting"]
+RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats"]
 STATS_COMMAND : ["mstats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
@@ -43,14 +43,14 @@ UNAUTH_COMMAND : ["unauth"]
 AUTHUSERS_COMMAND : ["authusers"]
 PAUSE_COMMAND : ["pause", "cpause"]
 RESUME_COMMAND : ["resume", "cresume"]
-MUTE_COMMAND : ["mmute", "cmute"]
-UNMUTE_COMMAND : ["munmute", "cunmute"]
+MUTE_COMMAND : ["mute", "cmute"]
+UNMUTE_COMMAND : ["unmute", "cunmute"]
 STOP_COMMAND : ["stop", "end", "cstop", "cend"]
 SKIP_COMMAND : ["skip", "cskip"]
 SHUFFLE_COMMAND : ["shuffle", "cshuffle"]
 LOOP_COMMAND : ["loop", "cloop"]
 SEEK_COMMAND : ["seek", "cseek", "seekback", "cseekback"]
-RESTART_COMMAND : ["mrestart"]
+RESTART_COMMAND : ["restart"]
 
 # Sudo Users Commaands
 
@@ -103,8 +103,8 @@ BLOCKED_COMMAND : ["blockedusers"]
 SPEEDTEST_COMMAND : ["speedtest"]
 
 #Voice chat commands
-ACTIVEVC_COMMAND : ["activevoice"]
-ACTIVEVIDEO_COMMAND : ["activevideo"]
+ACTIVEVC_COMMAND : ["os"]
+ACTIVEVIDEO_COMMAND : ["bokep"]
 
 #Gban Commands
 GBAN_COMMAND : ["gban"]
